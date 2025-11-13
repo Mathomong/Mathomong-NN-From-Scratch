@@ -1,4 +1,5 @@
 #  Mathomong AI Club
+![mathomong](mathomong.png)
 ## Linear Algebra in Neural Networks: A Beginner's Guide
 
 ---
