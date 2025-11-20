@@ -112,6 +112,8 @@ Emails Matrix (X):
  [10, 0, 20]]   ← Email 3
 ```
 
+![Spam score via matrix multiplication](spam_score_matrix_multiplication.png)
+
 Instead of calculating scores one by one, **matrix multiplication does all of them simultaneously**:
 
 ```python
