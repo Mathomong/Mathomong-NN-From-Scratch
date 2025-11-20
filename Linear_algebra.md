@@ -292,7 +292,7 @@ Like examining a sculpture from every angle until you understand its true form.
 ## 🚀 What's Next?
 
 Now that you understand the foundations:
-- **Practice:** Play with simple neural networks (try Google Colab)
+- **Practice:** Play with simple neural networks
 - **Visualize:** Watch 3Blue1Brown's neural network series
 - **Build:** Start with small projects (classify images, predict prices)
 - **Connect:** Join the Mathomong AI Club and learn with peers!
@@ -302,5 +302,6 @@ Remember: Every expert was once a beginner. You've just taken your first step in
 ---
 
 *"The only way to learn mathematics is to do mathematics." — Paul Halmos*
+
 
 **Welcome to the Mathomong AI Club!**
