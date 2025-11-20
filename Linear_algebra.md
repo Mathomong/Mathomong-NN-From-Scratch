@@ -270,9 +270,4 @@ Now that you understand the foundations:
 *"The only way to learn mathematics is to do mathematics." — Paul Halmos*
 
 **Welcome to the Mathomong AI Club\!**
----
 
-*"The only way to learn mathematics is to do mathematics." — Paul Halmos*
-
-
-**Welcome to the Mathomong AI Club!**
